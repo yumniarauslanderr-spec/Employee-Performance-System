@@ -1,0 +1,5 @@
+{
+  "name": "Employee Performance System",
+  "description": "A modern, clean, and user-friendly application for managing employee performance reports. It features role-based access for Admins, Department Heads, and Employees, with dedicated dashboards, KPI tracking, and automated reporting functionalities.",
+  "requestFramePermissions": []
+}
